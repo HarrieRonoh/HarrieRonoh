@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @HarrieRonoh
-- 👀 I’m interested in ...GIS and RS
-- 🌱 I’m currently learning ...Geospatial Engineering
-- 💞️ I’m looking to collaborate on ...Tech world
-- 📫 How to reach me ...Linked in,Harrison Ronoh
+-  @Harrie
+- GIS, RS, .py, Cloud (GCP,AWS), anything else Tech
+- Geospatial Engineer
 
 <!---
 HarrieRonoh/HarrieRonoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
